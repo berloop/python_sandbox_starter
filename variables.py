@@ -1,7 +1,14 @@
+# Variables and data-types..
+
 x = 1
+# integer
 y =.5
-name='John Connor' 
+# float
+name='Abdul Mtoro III'
+# string
 isActive = True
+# boolean
+
 y = (x/y) * x
 print(name,x,isActive,y)
 

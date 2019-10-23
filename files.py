@@ -15,7 +15,7 @@ myFile.close()
 
 # Append to file
 myFile = open('loveLetter.txt','a')
-myFile.write("and I love Only You My Love Zainab!")
+myFile.write("and I love Only You My Love Anabelle Lee!")
 myFile.close()
 
 #Read from file
